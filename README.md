@@ -1,4 +1,4 @@
-[Установить плагин](https://360.topomatic.ru?extensionInstallPath=https%3A%2F%2Ftopomatic-code.github.io%2Fru.topomatic.example%2F)
+[Установить плагин](https://360.topomatic.ru?extensionInstallPath=https%3A%2F%2Fvs-kovelev-prm.github.io%2Ft360.sandbox%2F)
 
 # Установка зависимостей
 
@@ -92,6 +92,6 @@ jobs:
 # Установка
 
 ```typescript
-const extensionPath = 'https://topomatic-code.github.io/ru.topomatic.example/'
+const extensionPath = 'https://vs-kovelev-prm.github.io/t360.sanbox/'
 const href = `https://360.topomatic.ru?extensionInstallPath=${encodeURIComponent(extensionPath)}`;
 ```
