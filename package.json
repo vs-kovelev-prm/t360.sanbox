@@ -1,19 +1,19 @@
 {
   "$schema": "node_modules/albatros/schema.json",
-  "name": "ru.topomatic.example",
-  "displayName": "Тестовое приложение Топоматик 360",
-  "description": "Тестовое приложение демонстрирует возможность создания пользовательских плагинов, позволяющих расширять базовую функциональность Топоматик 360 за счёт новых функций",
+  "name": "t360.sandbox",
+  "displayName": "Моё тестовое приложение Топоматик 360",
+  "description": "пытаемся развернуть плагин в т360",
   "private": true,
   "version": "0.0.1",
   "main": "src/main.ts",
   "author": {
-    "name": "ООО НПФ \"Топоматик\"",
-    "email": "support@topomatic.ru",
+    "name": "ООО ПСП \"Рога и Копыта\"",
+    "email": "kobelevvs@avtomost.ru",
     "url": "https://topomatic.ru"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/topomatic-code/ru.topomatic.example.git"
+    "url": "https://https://github.com/vs-kovelev-prm/t360.sanbox.git"
   },
   "icon": "favicon",
   "apx": true,
